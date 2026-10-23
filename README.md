@@ -3,4 +3,4 @@ AI Contract Hub Video
 
 
 AI Contract Hub UI/UX
-[UI/UX Prototype](https://www.figma.com/proto/Xgk0zHBlYx5MDTi5XjwMFf/AI-Contract-Hub-UI-UX?node-id=9-1247&t=0IYX93efbdnyp0I1-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+[🧱 UI/UX Prototype](https://www.figma.com/proto/Xgk0zHBlYx5MDTi5XjwMFf/AI-Contract-Hub-UI-UX?node-id=9-1247&t=0IYX93efbdnyp0I1-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
