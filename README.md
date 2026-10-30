@@ -4,3 +4,8 @@ AI Contract Hub Video
 
 AI Contract Hub UI/UX
 [🧱 UI/UX Prototype](https://www.figma.com/proto/Xgk0zHBlYx5MDTi5XjwMFf/AI-Contract-Hub-UI-UX?node-id=9-1247&t=0IYX93efbdnyp0I1-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+
+AI Contract Hub Telegram Bot
+@AIcontractreviewer_bot
+<img width="780" height="821" alt="image" src="https://github.com/user-attachments/assets/9e2b4709-80b5-434e-8158-c85981985f57" />
